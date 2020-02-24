@@ -28,8 +28,10 @@ int main()
             menu_raices();
             opciones_raices();
             break;
-        default:
+        case 0:
+            exit(0);
 
+        default:
             printf("\nOpcion Incorrecta!");
         }
 
