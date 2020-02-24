@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1446671344 source:c:\users\emrol\documents\enrique\documents\esime\ejemplo\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1542831036 source:c:\users\emrol\documents\enrique\documents\esime\plantillametnumwin\main.c
+	"cabecera.h"
+
+1542831231 c:\users\emrol\documents\enrique\documents\esime\plantillametnumwin\cabecera.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	"tinyexpr.h"
+
+1542778379 c:\users\emrol\documents\enrique\documents\esime\plantillametnumwin\tinyexpr.h
+
+1542831252 source:c:\users\emrol\documents\enrique\documents\esime\plantillametnumwin\menus.c
+	"cabecera.h"
+
+1542778379 source:c:\users\emrol\documents\enrique\documents\esime\plantillametnumwin\tinyexpr.c
+	"tinyexpr.h"
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<limits.h>
+
+1542831036 source:c:\users\emrol\documents\enrique\documents\esime\plantillametnumwin\tabula.c
+	"cabecera.h"
+
+1542831209 source:c:\users\emrol\documents\enrique\documents\esime\plantillametnumwin\entrada_datos.c
+	"cabecera.h"
+
+1542824806 source:c:\users\emrol\downloads\plantillametnumwin-master\plantillametnumwin-master\tabula.c
+	"cabecera.h"
+
+1582315563 c:\users\emrol\downloads\plantillametnumwin-master\plantillametnumwin-master\cabecera.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	"tinyexpr.h"
+
+1542824806 c:\users\emrol\downloads\plantillametnumwin-master\plantillametnumwin-master\tinyexpr.h
+
+1542824806 source:c:\users\emrol\downloads\plantillametnumwin-master\plantillametnumwin-master\tinyexpr.c
+	"tinyexpr.h"
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<limits.h>
+
+1582286813 source:c:\users\emrol\downloads\plantillametnumwin-master\plantillametnumwin-master\entrada_datos.c
+	"cabecera.h"
+
+1582527393 source:c:\users\emrol\downloads\plantillametnumwin-master\plantillametnumwin-master\main.c
+	"cabecera.h"
+
+1582315554 source:c:\users\emrol\downloads\plantillametnumwin-master\plantillametnumwin-master\menus.c
+	"cabecera.h"
+
+1582181414 source:c:\users\emrol\downloads\plantillametnumwin-master\plantillametnumwin-master\raices.c
+	"cabecera.h"
+
+1582181676 source:c:\users\emrol\downloads\plantillametnumwin-master\plantillametnumwin-master\ecuaciones.c
+	"cabecera.h"
+
