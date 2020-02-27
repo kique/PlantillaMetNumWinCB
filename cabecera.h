@@ -10,7 +10,7 @@ void menu_raices(void);
 
 void maneja_tabulacion(void);
 
-void tabula_funcion(double , double , double , char *);
+void tabula_funcion(double xi, double xf, double inc, char *ap_expr,int archivo);
 
 double fx(double x);
 void maneja_biseccion();

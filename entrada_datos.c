@@ -3,7 +3,7 @@
 void maneja_tabulacion()
 {
     double xa,xb,inc;
-    int imax,i,res, length, c;
+    int imax,i,res,length,c,archivo;
     char expresion[30];
 
     printf("\nTabulacion de una Funcion\n\n");
@@ -24,10 +24,13 @@ void maneja_tabulacion()
     scanf("%lf",&xa);
     printf("\n Ingrese el limite derecho xb: ");
     scanf("%lf",&xb);
-    printf("\n Ingrese el valos del incremento: ");
+    printf("\n Ingrese el valor del incremento: ");
     scanf("%lf",&inc);
+    printf("\n Desea guardar la salida en un archivo? (1=si/0=no): ");
+    scanf("%d",&archivo);
 
-    tabula_funcion(xa,xb,inc,expresion);
+    tabula_funcion(xa,xb,inc,expresion,archivo);
+
 }
 
 void maneja_biseccion(void)
